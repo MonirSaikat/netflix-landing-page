@@ -280,4 +280,13 @@ footer p {
   .content h4 {
     font-size: 20px !important;
   }
+
+  .title,
+  .sub-title {
+    text-align: center !important;
+  }
+
+  header nav svg {
+    width: 110px !important;
+  }
 }/*# sourceMappingURL=style.css.map */
